@@ -13,8 +13,8 @@ body {
     padding: 1.5rem;
     text-align: center;
     justify-content: center;
-    text-decoration: overline wavy blue;
-    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    text-decoration: #444;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #fff;
     color: rgb(8, 202, 236);
     font-size: 2rem;
     font-weight: bold;
